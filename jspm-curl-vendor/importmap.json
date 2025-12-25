@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "react": "https://ga.jspm.io/npm:react@19.1.0/index.js",
+    "react/jsx-runtime": "https://ga.jspm.io/npm:react@19.1.0/jsx-runtime.js"
+  }
+}
