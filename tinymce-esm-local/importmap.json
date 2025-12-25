@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "tinymce": "./node_modules/tinymce/tinymce.js"
+  }
+}
